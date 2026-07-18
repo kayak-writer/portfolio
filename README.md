@@ -1,5 +1,3 @@
-# Jay's Portfolio
-
 This is my portfolio of product announcements, a help center pages, and a README for a side project.
 
 ## Product Announcements
