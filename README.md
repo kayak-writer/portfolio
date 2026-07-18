@@ -8,7 +8,7 @@ This is my portfolio of product announcements and help center pages.
 
 [Sports Media Report](Sports_Media_Report_Notify.pdf)
 
-[VIdeo Revenue and Programming Report](Video_Revenue_and_Programming_Report_Notify.pdf)
+[Video Revenue and Programming Report](Video_Revenue_and_Programming_Report_Notify.pdf)
 
 ## Help Center Pages
 
