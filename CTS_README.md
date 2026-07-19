@@ -24,4 +24,4 @@ Try it live at [Chase The Split](https://chasethesplit.com/).
 
 ## Preview the design
 
-![Dashboard screenshot](screenshots/dashboard.png)
+![Dashboard screenshot](dashboard_screenshot.png)
